@@ -10,4 +10,3 @@ To run the program, a few steps are needed:
 - Clone the repository
 - Run python3.x pixelator.py
 - If an error results, make certain that you have you camera plugged in.
-- 
